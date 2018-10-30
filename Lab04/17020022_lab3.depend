@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540280591 source:c:\users\ccne\documents\17020022_lab3\ex1.cpp
+	"etree.h"
+
+1540281035 c:\users\ccne\documents\17020022_lab3\etree.h
+	<iostream>
+	<stack>
+
+1540280777 source:c:\users\ccne\documents\17020022_lab3\ex2.cpp
+	"etree.h"
+	"traversal.h"
+
+1540280491 c:\users\ccne\documents\17020022_lab3\traversal.h
+	<iostream>
+	"etree.h"
+
+1540280489 source:c:\users\ccne\documents\17020022_lab3\traversal.cpp
+	"traversal.h"
+
